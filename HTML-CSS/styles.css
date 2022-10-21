@@ -142,6 +142,7 @@
 .number2{
   margin-left: 10px;
   display: inline-block;
+  margin-bottom: 10px;
   
 }
 .numbers{
@@ -166,7 +167,13 @@
   color: #DC7633;
   margin-left: 6px;
 }
-
+.template{
+  display:flex;
+  border-bottom: 50%;
+  
+  height:200px;
+  width:200px;
+}
 .desc{
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
